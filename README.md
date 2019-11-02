@@ -1,5 +1,5 @@
 # 481objectdetection
-detection and identification of objects
+Detection and Classification of objects
 
 I’m using YOLOv3 as the base algorithm for my Project.
 
