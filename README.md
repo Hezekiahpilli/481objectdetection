@@ -1,5 +1,6 @@
-Project done by: Hezekiah Pilli 
-Contact: hezekiahPilli@csu.fullerton.edu
+Project done by: Hezekiah Pilli
+
+Contact: hezekiahpilli@csu.fullerton.edu
 
 Please find below the steps to run the Object detection algorithm.
 
