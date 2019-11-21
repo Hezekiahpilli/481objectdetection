@@ -1,3 +1,6 @@
+Project done by: Hezekiah Pilli 
+Contact: hezekiahPilli@csu.fullerton.edu
+
 Please find below the steps to run the Object detection algorithm.
 
 •	Here I will be using the YOLOv3 algorithm for this Project.
