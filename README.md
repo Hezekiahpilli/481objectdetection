@@ -9,6 +9,7 @@ Please find below the steps to run the Object detection algorithm.
 •	The code can be viewed as AI_project.ipynb.
 
 • Dataset used for training is PASCAL VOC-2012
+https://pjreddie.com/
 
 •	The code is mainly divided into three parts. Pre-requisites stage, training stage, and prediction stage. Please follow the steps to run/test the predictions.
 
